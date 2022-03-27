@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new era for Qubik Studios](https://qubik-studios.net/blog/a-new-era-for-qubik-studios/)
 - [Qubik Studios 1 year Event – Recap](https://qubik-studios.net/blog/qubik-studios-1-year-event-recap/)
 - [Big step into our future!](https://qubik-studios.net/blog/big-step-into-our-future/)
 - [Progress of the Network](https://qubik-studios.net/blog/progress-of-the-network/)
 - [The Qubik Studios Network](https://qubik-studios.net/blog/the-qubik-studios-network/)
-- [We are back online after the Maintenance](https://qubik-studios.net/blog/we-are-back-online-after-the-maintenance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://qubik-studios.net/news)
