@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Qubik Studios Network [DevLog#1]](https://qubik-studios.net/blog/qubik-studios-network-devlog1/?utm_source=rss&utm_medium=rss&utm_campaign=qubik-studios-network-devlog1)
-- [Ore Duplicators 2 gets discontinued](https://qubik-studios.net/blog/od2-gets-discontinued/?utm_source=rss&utm_medium=rss&utm_campaign=od2-gets-discontinued)
-- [A new era for Qubik Studios](https://qubik-studios.net/blog/a-new-era-for-qubik-studios/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-era-for-qubik-studios)
-- [Qubik Studios 1 year Event – Recap](https://qubik-studios.net/blog/qubik-studios-1-year-event-recap/?utm_source=rss&utm_medium=rss&utm_campaign=qubik-studios-1-year-event-recap)
-- [Big step into our future!](https://qubik-studios.net/blog/big-step-into-our-future/?utm_source=rss&utm_medium=rss&utm_campaign=big-step-into-our-future)
+- [Qubik Studios Network [DevLog#1]](https://qubik-studios.net/blog/qubik-studios-network-devlog1/)
+- [Ore Duplicators 2 gets discontinued](https://qubik-studios.net/blog/od2-gets-discontinued/)
+- [A new era for Qubik Studios](https://qubik-studios.net/blog/a-new-era-for-qubik-studios/)
+- [Qubik Studios 1 year Event – Recap](https://qubik-studios.net/blog/qubik-studios-1-year-event-recap/)
+- [Big step into our future!](https://qubik-studios.net/blog/big-step-into-our-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://qubik-studios.net/news)
