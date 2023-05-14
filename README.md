@@ -13,20 +13,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Qubik Studios Network [DevLog#2]](https://qubik-studios.net/blog/qubik-studios-network-devlog2/)
-- [Qubik Studios Network [DevLog#1]](https://qubik-studios.net/blog/qubik-studios-network-devlog1/)
-- [Ore Duplicators 2 gets discontinued](https://qubik-studios.net/blog/od2-gets-discontinued/)
-- [A new era for Qubik Studios](https://qubik-studios.net/blog/a-new-era-for-qubik-studios/)
-- [Qubik Studios 1 year Event – Recap](https://qubik-studios.net/blog/qubik-studios-1-year-event-recap/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://qubik-studios.net/news)
-
----
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConmineLP&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConmineLP&show_icons=true&hide_border=true&theme=transparent" />
 
