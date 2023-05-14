@@ -34,7 +34,7 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=ConmineLP&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=ConmineLP&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConmineLP&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
 
 
 [website]: https://qubik-studios.net
